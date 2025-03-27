@@ -1,6 +1,6 @@
 # Nome do Projeto
 
-Descrição breve do projeto.
+Blog feito para estudos.
 
 ## Tecnologias Utilizadas
 
